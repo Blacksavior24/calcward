@@ -1,4 +1,4 @@
-package com.calculatorward
+package com.adem.calcward
 
 import android.app.Application
 import com.facebook.react.PackageList

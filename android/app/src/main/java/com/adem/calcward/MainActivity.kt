@@ -1,4 +1,4 @@
-package com.calculatorward
+package com.adem.calcward
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate

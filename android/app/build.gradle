@@ -74,9 +74,9 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
     compileSdk rootProject.ext.compileSdkVersion
 
-    namespace "com.calculatorward"
+    namespace "com.adem.calcward"
     defaultConfig {
-        applicationId "com.calculatorward"
+        applicationId "com.adem.calcward"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
